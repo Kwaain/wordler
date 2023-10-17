@@ -1,0 +1,20 @@
+{
+    "editor.tabSize": 2,
+    "editor.linkedEditing": true,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.enable": true,
+    "eslint.options": {
+      "extensions": [".js", ".ts", ".jsx", ".vue"]
+    },
+    "npm.packageManager": "pnpm",
+    "vite.autoStart": false,
+    "path-intellisense.mappings": {
+      "@": "${workspaceFolder}/src"
+    }
+  }
+  
